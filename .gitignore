@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+.idea
+*.iml
+
+# all modules jar.
+mods/
+# Class files locations of modules
+feeding/feeding/
+care/care
+staff/staff/
+talks/talks
